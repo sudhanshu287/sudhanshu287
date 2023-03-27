@@ -1,5 +1,5 @@
-### Hi there 👋, I'm **Sudhanshu**
-#### A passionate **Frontend Developer** from India
+<h1 align="center">Hi 👋, I'm Sudhanshu</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 ![GitHub Banner Image](https://github.com/sudhanshu287/sudhanshu287/blob/main/Github-cover.png)
 
@@ -9,6 +9,7 @@
 I am a passionate Frontend Web Developer.
 I have a basic knowledge of data structure and algorithms . As a frontend web developer, I have an experience in JavaScript programming, HTML, CSS and frameworks like Bootstrap and ReactJS.
 
+### 👨‍💻 All of my projects are available at [https://sudhanshupatel.vercel.app](https://sudhanshupatel.vercel.app)
 
 <!-- Language and tools section -->
 
