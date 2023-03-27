@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-![GitHub Banner Image](https://github.com/sudhanshu287/sudhanshu287/blob/main/Github-cover.png)
+![GitHub Banner Image](https://github.com/sudhanshu287/sudhanshu287/blob/main/Github-Cover.png)
 
 
 <h3 align="left">About Me:</h3>
