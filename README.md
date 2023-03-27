@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm **Sudhanshu**
 #### A passionate **Frontend Developer** from India
 
-![GitHub Banner Image]()
+![GitHub Banner Image](https://github.com/sudhanshu287/sudhanshu287/blob/main/Github-cover.png)
 
 
 <h3 align="left">About Me:</h3>
