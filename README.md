@@ -14,6 +14,7 @@ I have a basic knowledge of data structure and algorithms . As a frontend web de
 <!-- Language and tools section -->
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left"> 
   
    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -22,11 +23,33 @@ I have a basic knowledge of data structure and algorithms . As a frontend web de
 <!-- Socials Profiles -->
 
 <h3 align="left">Social Profiles:</h3>
+
 <p align="left">
 <a href="https://dev.to/sudhanshu287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sudhanshu287" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sudhanshu123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudhanshu123" height="30" width="40" /></a>
 <a href="https://instagram.com/_sdn_patel_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sdn_patel_dev" height="30" width="40" /></a>
 </p>
+
+## **Let's Connect 👋**
+
+<div align=center>
+<a href="https://sudhanshupatel.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt=Portfolio>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/sudhanshu287" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin%20Profile-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=Linkedin>
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.frontendmentor.io/profile/sudhanshu287" target="_blank">
+    <img src="https://img.shields.io/badge/FEM%20Profile-f8f9f8?style=for-the-badge&logo=Frontend-Mentor&logoColor=black" alt="Frontend-Mentor">
+  </a> &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.github.com/sudhanshu287/" target="_blank">
+    <img src="https://img.shields.io/badge/Github%20Profile-131313?style=for-the-badge&logo=github&logoColor=white" alt="Personal Website">
+  </a>
+
+</div>
+<br>
 
 <!--  Github Stats-->
 
